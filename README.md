@@ -61,7 +61,7 @@ Performing the mobile-first workflow would be a nice experience.Using SCSS or ot
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/coderMicah)
-- Twitter - [@yourusername](https://www.twitter.com/_micahcodes)
+- Frontend Mentor - [@coderMicah](https://www.frontendmentor.io/profile/coderMicah)
+- Twitter - [@_micahcodes](https://www.twitter.com/_micahcodes)
 
 
